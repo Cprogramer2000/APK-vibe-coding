@@ -32,7 +32,10 @@ Desenvolvo aplicações Android, brinco com web e adoro quando o código simples
 
 ---
 
-![Pac-Man](https://github.com/user-attachments/assets/0f0e0e0e-0f0e-0f0e-0f0e-0f0e0e0e0f0e)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/svg/github-contribution-grid-snake.svg" alt="Snake" />
+  <!-- Se quiser um Pac-Man de verdade, posso te passar um GIF ou SVG animado -->
+</div>
 
 ---
 
