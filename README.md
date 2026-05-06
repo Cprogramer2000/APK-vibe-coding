@@ -32,6 +32,10 @@ Desenvolvo aplicações Android, brinco com web e adoro quando o código simples
 
 ---
 
+![Pac-Man](https://github.com/user-attachments/assets/0f0e0e0e-0f0e-0f0e-0f0e-0f0e0e0e0f0e)
+
+---
+
 ## 🔥 O que eu curto fazer
 - Desenvolver apps Android com uma vibe clean e moderna
 - Criar interfaces bonitas e fluidas
